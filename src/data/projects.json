@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Diary application",
+    "imageSrc": "projects/diaryapp.png",
+    "description": "This app developed with the aim of enhancing the users to write their thoughts and emotions on a digital platform Users can able to create, view, edit, or delete their writings",
+    "skills": ["React", "Express", "Node","MongoDB","Bootstrap"],
+    "demo": "https://diary-app-fsd1.netlify.app/",
+    "source": "https://github.com/arularun-developer/diaryapp-frontend"
+  },
+  {
+    "title": "Zenclass StudentDashboard",
+    "imageSrc": "projects/zenclassdashboard.png",
+    "description": "I developed an exceptional student dashboard for ZEN Class, providing students with a comprehensive platform for managing their academicjourney.",
+    "skills": ["React", "Express", "Node", "MongoDB","Bootstrap"],
+    "demo": "https://zenclassstudentdashboard.netlify.app/",
+    "source": "https://github.com/arularun-developer/zenclass-frontend"
+  },
+  {
+    "title": "Zenclass StudentDashboard",
+    "imageSrc": "projects/zenclassdashboard.png",
+    "description": "I developed an exceptional student dashboard for ZEN Class, providing students with a comprehensive platform for managing their academicjourney.",
+    "skills": ["React", "Express", "Node", "MongoDB","Bootstrap"],
+    "demo": "https://zenclassstudentdashboard.netlify.app/",
+    "source": "https://github.com/arularun-developer/zenclass-frontend"
+  },
+  {
+    "title": "Zenclass StudentDashboard",
+    "imageSrc": "projects/zenclassdashboard.png",
+    "description": "I developed an exceptional student dashboard for ZEN Class, providing students with a comprehensive platform for managing their academicjourney.",
+    "skills": ["React", "Express", "Node", "MongoDB","Bootstrap"],
+    "demo": "https://zenclassstudentdashboard.netlify.app/",
+    "source": "https://github.com/arularun-developer/zenclass-frontend"
+  }
+ 
+]

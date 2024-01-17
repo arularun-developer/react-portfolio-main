@@ -1,0 +1,18 @@
+{
+//     "title": "MySQL",
+//     "imageSrc": "skills/mysql.png"
+//   }
+
+
+ {
+    "title": "QR Generator application",
+    "imageSrc": "projects/qrgenerator.png",
+    "description": "This app was developed to enable users to convert URL into QR code Users can generate QR codes with customization like color,background,and size, also user can download the generated QR code",
+    "skills": ["React","MockApi","Bootstrap","HTML","CSS"],
+    "demo": "https://qr-generator-webapp.netlify.app/",
+    "source": "https://github.com/arularun-developer/QR_Generator"
+  }
+
+
+
+  service_cegx14m
