@@ -111,4 +111,7 @@
   .content {
     align-items: center;
   }
+  .heroImg{
+    display: none;
+  }
 }
