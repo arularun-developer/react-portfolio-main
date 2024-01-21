@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./Hero.module.css";
 import Type from "../../features/Type";
 import { RxPinBottom } from "react-icons/rx";
-import resume from "../../../assets/hero/resume.pdf"
+import resume from "../../../assets/hero/arunresume.pdf"
 
 export const Hero = () => {
   return (
