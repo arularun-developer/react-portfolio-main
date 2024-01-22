@@ -3,7 +3,6 @@ import React from "react";
 import styles from "./Hero.module.css";
 import Type from "../../features/Type";
 import { RxPinBottom } from "react-icons/rx";
-import resume from "../../../assets/hero/arunresume.pdf"
 
 export const Hero = () => {
   return (
@@ -15,7 +14,7 @@ export const Hero = () => {
           <Type />
         </p>
      
-        <a href={resume} className={styles.contactBtn} target="_blank"
+        <a href='https://drive.google.com/file/d/18d1sIR0lXPwSUipjhiIMCrkGRkuS1Kf6/view?usp=drive_link' className={styles.contactBtn} target="_blank"
           download='arunresume' >
           <RxPinBottom />  Resume
         </a>
