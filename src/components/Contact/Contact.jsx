@@ -63,9 +63,9 @@ export const Contact = () => {
         </Col>
         <Col md={6} className="c-right">
           <form ref={form} onSubmit={sendEmail}>
-            <input type="text" name="user_name" className='user' placeholder='Enter Your Name'  />
-            <input type="email" name="user_email" className='user' placeholder='Enter Your Email' />
-            <textarea name="message" className='user' placeholder='Message'  />
+            <input type="text" name="user_name" className='user' placeholder='Enter Your Name'  required/>
+            <input type="email" name="user_email" className='user' placeholder='Enter Your Email' required />
+            <textarea name="message" className='user' placeholder='Message' required  />
             <Button type="submit" className="button ">Send</Button>
           </form>
         </Col>

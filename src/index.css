@@ -205,7 +205,12 @@ textarea {
   border-radius: 50% !important;
  margin-right: 20px;  
 }
-
+ 
+@media screen and (max-width:600px){
+  .contact-social-icons {
+     margin-top: 10px;
+  }
+}
 
 
 
